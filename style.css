@@ -59,3 +59,7 @@ body {
     border-radius: 10%;
     object-fit: cover;
 }
+
+.phone-number {
+    font-weight: bold;
+}
